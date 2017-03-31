@@ -2,13 +2,10 @@
 <html>
 <body>
 <table>
-<b><i>Ministry of electronics and information technology</i></b>
-<th>Page title></th>
-<tr>
-<th>Meta description</th>
+<b><i>Ministry of electronics and information technology</i></b> 
 <tr>
 <td>Page heading </td>
-<td> </td>
+<td> Description</td>
 </tr>
 <tr>
 <td>Page title </td>
