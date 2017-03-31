@@ -3,9 +3,7 @@
 <body>
 <table>
 <b><i>Ministry of electronics and information technology</i></b>
-<tr>
 <th>Page title></th>
-</tr>
 <tr>
 <th>Meta description</th>
 <tr>
@@ -29,10 +27,26 @@
 <td> The website does not contain heading tags </td>
 </tr>
 <tr>
-<td> </td>
-<td> </td>
+<td> SEO friendly url test</td>
+<td> Make the urls in your pages more SEO friendly</td>
+</tr>
+<tr>
+<td>Images </td>
+<td>your page has 116 images and 3 of them are missing.</td>
+</tr>
+<tr>
+<td> HTML compression</td>
+<td>your page must use htmml compression </td>
+</tr>
+<tr>
+<td>HTML page side </td>
+<td>your html page size is exceeding the average page size of 33kb </td>
 </tr>
 
+<tr>
+<td>Underscores in links </td>
+<td>underscores should be avoided in inpage urls</td>
+</tr>
 
 </body>
 </html>
