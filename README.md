@@ -86,22 +86,23 @@
 
 <tr>
 <td>URL</td>
-<td>Some URLs have been fiound using non SEO friendly characters such as capital alphabets</td>
-<td></td>
+<td>Some URLs have been fiound using non SEO friendly characters such as special characters like &, %, ? etc.</td>
+<td>URLs should contain only SEO friendly characters such as small and capital alphabets, underscores, numbers, slashes, dash. </td>
 </tr>
 
 
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>Image</td>
+<td>The site is using 47 image tags and 2 of them are missing alt attribute.</td>
+<td>In case the image is unable to load, the description of the image will let the user know what the image is about. It makes the page more user friendly.</td>
 </tr>
 
 
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>HTML page size</td>
+<td>HTML size is 53.06 Kb and this is above the average web page size of 33 Kb.</td>
+<td>This leads to a slower page loading time than average.
+So the page size should be below 33kb.</td>
 </tr>
 
 
