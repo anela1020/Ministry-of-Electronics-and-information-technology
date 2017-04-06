@@ -107,9 +107,9 @@ So the page size should be below 33kb.</td>
 
 
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>Robots.txt</td>
+<td>This site is not using robot.txt.</td>
+<td>With this small txt file you can handle your website better on the internet by managing the content that the engine robot accesses on your site.It should be included for better management and controlled access by the users. </td>
 </tr>
 
 
