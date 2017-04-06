@@ -47,3 +47,97 @@
 
 </body>
 </html>
+
+
+
+
+
+
+<html>
+<body>
+<table>
+<tr>
+<td> <b>Title></b></td>
+<td><b>Description</b></td>
+<td><b>Suggestion</b></td>
+</tr>
+<tr>
+<td>Page title</td>
+<td>The Page title length of your page is 83 characters</td>
+<td>It should be short and catchy else most search engines will turncate it.</td>
+</tr>
+
+
+<tr>
+<td>Meta keywords</td>
+<td>Meta Keywords Found,Google Does not accept meta keywords any more.
+</td>
+<td>Meta data is enough, meta keywords are not needed.</td>
+</tr>
+
+
+<tr>
+<td>Heading tags</td>
+<td>No H1 headings Found</td>
+<td>Heading tags shouldnt be ignored in the web pages as it highly effects your page SEO.
+</td>
+</tr>
+
+
+<tr>
+<td>URL</td>
+<td>Some URLs have been fiound using non SEO friendly characters such as capital alphabets</td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</body>
+</html>
